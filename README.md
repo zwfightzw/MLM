@@ -70,18 +70,12 @@ five green spots are agents, black spots are obstacles, blue spots are targets, 
 Meta-application: when newcomers are into the environment, the meta-actor network in the cloud can be downloaded to the newcomers to take
 emergent and suitable actions directly.
 - Four trained agents implementations:
-
+![image](https://github.com/zwfightzw/meta-MADDPG/tree/master/meta_figure/gif/test_only_agent.gif)：
 - idiot newcomer (The fifth agent arrives, and its actor network is idiot):
 ![image](https://github.com/zwfightzw/meta-MADDPG/tree/master/meta_figure/gif/idiot_agent_5.gif)：
 - meta newcomer (The fifth agent arrives, and its acotr network directly loads meta actor network)
 
 
-![image](https://github.com/zwfightzw/meta-MADDPG/tree/master/meta_figure/gif/idiot_agent_5.gif)：
-
-
-Trained 1000 episodes：
-
-![image](https://github.com/yexme/maddpg-mpe/blob/master/picture/Waterworld_Trained.gif)
 
 
 
