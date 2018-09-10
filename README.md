@@ -15,12 +15,11 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
 
 - [pytorch](https://github.com/pytorch/pytorch)
 - [visdom](https://github.com/facebookresearch/visdom)
-- [multi-agent]
 - python 2
 
 ## Install
 
-- go to the path of multiagent, run the script if you have already make it before: rm -rf build
+- (1) go to the path of multiagent, run the script if you have already make it before: rm -rf build
 - if you first run the environment, you should do as: python setup.py install
       
        export PYTHONPATH=$(pwd):$(pwd)/multiagent
