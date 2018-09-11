@@ -1,7 +1,8 @@
 ###############################################################################
 '''
 file name: test_meta_actor.py
-function: .
+function: Based on the trained multiple agent models, multi-agent actors implement in a specific environment,
+           and  we will statistic on the number of collisions and shortest distance ratio in different modes.
 note: you should take serious care of the path of your critic and actor network.
 lastest date:  2018.09.10
 '''

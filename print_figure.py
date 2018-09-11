@@ -1,7 +1,7 @@
 ###############################################################################
 '''
 file name: print_figure.py
-function: .
+function: According to the sampling results of the three modes during the training process, the main function here is to draw their reward curves.
 note: you should take serious care of the path of your critic and actor network.
 lastest date:  2018.09.10
 '''

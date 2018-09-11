@@ -1,7 +1,8 @@
 ###############################################################################
 '''
 file name: meta_actor.py
-function: .
+function: Train a generic agent metat actor model with meta properties based on the four agents that have been trained on the premise.
+           Here, this code has not contained the rnn structure.
 note: you should take serious care of the path of your critic and actor network.
 lastest date:  2018.09.10
 '''
