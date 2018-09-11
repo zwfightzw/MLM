@@ -79,7 +79,7 @@ emergent and suitable actions directly.
 ![image](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/meta/test_meta1200.gif)：
 
 
-![QQ20170926-111733-HD.gif](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/meta/test_meta1200.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/600)
+![QQ20170926-111733-HD.gif](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/meta/test_meta1200.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 
 
 
