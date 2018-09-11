@@ -6,9 +6,9 @@ This is the code for implementing the meta-MADDPG algorithm presented in the pap
 Reinforcement Learning: Fast Adaptation for the Newcomers. It is configured to be run in conjunction with environments from
 the Multi-Agent Particle Environments (MPE).
 
-paper : [Meta-Learning for Multiagent Reinforcement Learning: Fast Adaptation for the Newcomers].
+Paper : [Meta-Learning for Multiagent Reinforcement Learning: Fast Adaptation for the Newcomers].
 
-environment : [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs). 
+Environment : [multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs).
 (Training and testing is based on an instance of the environment named "simple_tag_non_adv_4.py").
 
 
@@ -20,7 +20,7 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
 
 ## Install
 
-1. build MPE environment.
+1. Build MPE environment.
   ```Shell
   # goto the path of multiagent-particle-envs
   cd multiagent-particle-envs
@@ -44,7 +44,7 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
     python main_4_non_meta.py
     ```
 
-3. training the model of meta actor and meta critic
+3. Training the model of meta actor and meta critic
 
     **Note 1:** :You need to pay special attention to the file paths in your code and adjust the different execution modes as needed.
 
@@ -55,7 +55,7 @@ environment : [multiagent-particle-envs](https://github.com/openai/multiagent-pa
     make
     ```
 
-4. evaluate the meta model and make a figure
+4. Evaluate the meta model and make a figure
     ```Shell
     # On the premise of the completion of the training, we cancel the random action process,
     # run the actor model of each agent, and obtain the specific execution result.
