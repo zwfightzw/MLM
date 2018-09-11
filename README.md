@@ -74,8 +74,9 @@ emergent and suitable actions directly.
 - Four trained agents implementations:
 ![image](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/test_only_agent.gif)：
 - idiot newcomer (The fifth agent arrives, and its actor network is idiot):
-![image](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/idiot_agent_5.gif)：
+![image](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/idiot_agent_5.gif)
 - meta newcomer (The fifth agent arrives, and its acotr network directly loads meta actor network)
+![image](https://github.com/zwfightzw/meta-MADDPG/blob/master/meta_figure/gif/meta/test_meta1200.gif)：
 
 
 
